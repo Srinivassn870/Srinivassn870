@@ -1,16 +1,93 @@
-## Hi there 👋
+# Hi, I am Srinivas 👋
 
-<!--
-**Srinivassn870/Srinivassn870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Kafka Administrator | AWS Engineer | Confluent Certified
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 4 years IT experience managing enterprise Kafka infrastructure
+
+- Managing **15 Kafka clusters** end to end — Dev, QA, Production
+
+- Currently at **Virtusa** — Client: **Wiley** (Global Publishing Company)
+
+- **Confluent Certified Data Streaming Engineer** ✅
+
+- Generative AI Certified — Virtusa ✅
+
+### 🛠️ My Tech Stack
+
+**Kafka & Streaming:**
+
+Apache Kafka | KRaft Mode | Kafka Connect | Kafka REST Proxy V3 | AWS MSK | Confluent
+
+**AWS Services:**
+
+EC2 | MSK | IAM | NLB | Transit Gateway | Secrets Manager | S3 | CloudWatch | STS
+
+**Automation & IaC:**
+
+Terraform | Ansible | Jenkins | Python (boto3) | Shell Scripting
+
+**Monitoring:**
+
+Prometheus | Grafana | Dynatrace | Filebeat | Kibana | Kafka-lag-exporter
+
+**Security:**
+
+SSL/TLS | SASL/SCRAM | SASL/PLAIN | ACL Authorization
+
+**Tools:**
+
+GitHub | Docker | Postman | Confluent Control Center | Kafbat UI | SuperPuTTY
+
+### 🏆 Key Achievements
+
+  - 🔥 **Led Zookeeper to KRaft Migration** across 15 clusters
+
+  - Collocated approach — broker + controller on same server
+
+  - Removed 45 servers — 33% infrastructure cost reduction
+
+  - Zero downtime migration — phase by phase
+
+  - ☁️ **AWS MSK Migration** using AWS MSK Replicator (not Mirror Maker 2)
+
+  - 🔒 **Implemented 3-layer Security** — SSL + SASL/SCRAM + ACLs
+
+  - 📊 **Built Complete Monitoring Stack** — Prometheus + Grafana + Dynatrace + ELK
+
+  - ⚡ **Full CI/CD Automation** — Terraform + Ansible + Jenkins pipelines
+
+  - 💰 **Cost Optimization** — EBS right-sizing + Zookeeper removal across 15 clusters
+
+### 📚 My Repositories
+
+| Repository | Description |
+
+|---|---|
+
+| 🔥 [kafka-kraft-migration-guide](link) | Complete ZK to KRaft migration — real production experience |
+
+| 📡 [kafka-connect-guide](link) | Source and Sink connector setup |
+
+| 🔒 [kafka-security-setup](link) | SSL + SASL/SCRAM + ACL implementation |
+
+| ☁️ [aws-msk-migration-guide](link) | EC2 Kafka to MSK migration guide |
+
+| 📊 [kafka-monitoring-stack](link) | Prometheus + Grafana setup |
+
+### 📜 Certifications
+
+
+
+- 🏅 **Confluent Certified Data Streaming Engineer**
+
+- 🏅 **Generative AI Certified** — Virtusa
+
+
+### 📫 Connect With Me
+
+[![LinkedIn](www.linkedin.com/in/srinivasa-s-n-02633019a)
+
+
+*"Managing 15 Kafka clusters in production — from Confluent to KRaft to MSK"*
