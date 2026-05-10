@@ -6,7 +6,7 @@
 
 - 4 years IT experience managing enterprise Kafka infrastructure
 
-- Managing **15 Kafka clusters** end to end — Dev, QA, Production
+- Managing ** Kafka clusters** end to end — Dev, QA, Production
 
 - Currently at **Virtusa** — Client: **Wiley** (Global Publishing Company)
 
@@ -60,21 +60,6 @@ GitHub | Docker | Postman | Confluent Control Center | Kafbat UI | SuperPuTTY
 
   - 💰 **Cost Optimization** — EBS right-sizing + Zookeeper removal across 15 clusters
 
-### 📚 My Repositories
-
-| Repository | Description |
-
-|---|---|
-
-| 🔥 [kafka-kraft-migration-guide](link) | Complete ZK to KRaft migration — real production experience |
-
-| 📡 [kafka-connect-guide](link) | Source and Sink connector setup |
-
-| 🔒 [kafka-security-setup](link) | SSL + SASL/SCRAM + ACL implementation |
-
-| ☁️ [aws-msk-migration-guide](link) | EC2 Kafka to MSK migration guide |
-
-| 📊 [kafka-monitoring-stack](link) | Prometheus + Grafana setup |
 
 ### 📜 Certifications
 
