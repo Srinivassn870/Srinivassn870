@@ -70,9 +70,7 @@ GitHub | Docker | Postman | Confluent Control Center | Kafbat UI | SuperPuTTY
 - 🏅 **Generative AI Certified** — Virtusa
 
 
-### 📫 Connect With Me
-
-[![LinkedIn](www.linkedin.com/in/srinivasa-s-n-02633019a)
+### 📫 Connect With Me www.linkedin.com/in/srinivasasn
 
 
 *"Managing 15 Kafka clusters in production — from Confluent to KRaft to MSK"*
