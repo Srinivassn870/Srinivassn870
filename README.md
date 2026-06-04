@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-- 3.5 years IT experience managing enterprise Kafka infrastructure
+- 4 years IT experience managing enterprise Kafka infrastructure
 
 - Managing ** Kafka clusters** end to end — Dev, QA, Production
 
